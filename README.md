@@ -21,6 +21,6 @@ because starting with Android 10+, apps cannot access external storage by defaul
 <img src="http://github.com/kuttahaitu/web-source-downloader/raw/main/screenshots/Screenshot1.jpg"></img>
 
 
-<h1><a href="">Test Package</a></h1>
+<h1><a href="https://github.com/kuttahaitu/web-source-downloader/raw/main/debug.apk">Test Package</a></h1>
 
-<p><a href="">Click here </a>and download test Package</p>
+<p><a href="https://github.com/kuttahaitu/web-source-downloader/raw/main/debug.apk">Click here </a>and download test Package</p>
