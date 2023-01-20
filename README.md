@@ -29,5 +29,5 @@ because starting with Android 10+, apps cannot access external storage by defaul
 
 <p><a href="https://github.com/kuttahaitu/web-source-downloader/archive/refs/heads/main.zip">Click here </a>and download project</p>
 
-<h1>Other </h1>
-<p>Watch the partical videos on <a href="">YouTube</a></h1>
+<h1><a href="https://youtube.com/playlist?list=PLY3adatDrF4kl5mRsj6K2C1vmub9p3vmc">Other </a></h1>
+<p>Watch the partical videos on <a href="https://youtube.com/playlist?list=PLY3adatDrF4kl5mRsj6K2C1vmub9p3vmc">YouTube</a></h1>
