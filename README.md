@@ -33,6 +33,5 @@ because starting with Android 10+, apps cannot access external storage by defaul
 <p>Watch the partical videos on <a href="https://youtube.com/playlist?list=PLY3adatDrF4kl5mRsj6K2C1vmub9p3vmc">YouTube</a></h1>
 
 <h1>Previews</h1>
-<img src=""></img>
-<img src=""></img>
-<img src=""></img>
+<img src="https://github.com/kuttahaitu/web-source-downloader/blob/main/screenshots/Screenshot1.jpg"></img>
+<img src="https://github.com/kuttahaitu/web-source-downloader/blob/main/screenshots/Screenshot_2.jpg"></img>
